@@ -6,6 +6,7 @@ This repository serves as a portfolio of my work in deep learning and AI, primar
 ### Skin Lesion Classification using Vision Transformers
 
 **Colab Link:** https://colab.research.google.com/drive/1PE87MUg66s0JofSIT2xiSo0WkVKFYKmR?usp=sharing 
+[https://github.com/yaraabdou/AI-Projects/blob/main/Skin_Lesion_Classification_ViT_Project.ipynb](Skin_Lesion_Classification_ViT_Project.ipynb)
 
 This project explores the application of Vision Transformers (ViTs) for automated skin lesion classification. Early detection of skin cancer is crucial for successful treatment, and deep learning models like ViTs offer promising solutions for improving diagnostic accuracy.
 
